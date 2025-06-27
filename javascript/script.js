@@ -1,1 +1,0 @@
-<button onclick="alert('Ola seja Bem vindo,Obrigado por visitar meu site!')">Clique aqui</button>
